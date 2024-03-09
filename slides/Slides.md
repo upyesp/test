@@ -68,11 +68,11 @@ comment that will show in notes -->
 
 ## Slide 6
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+Socials:
+
+<i class="fa-brands fa-mastodon"></i> Mastodon: https://fosstodon.org/@upyesp
+<i class="fa fa-window-maximize"></i> Blog: https://www.upyesp.org
+<i class="fa-brands fa-github"></i> GitHub: https://github.com/upyesp
 
 ---
 
