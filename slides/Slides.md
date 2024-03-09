@@ -101,6 +101,5 @@ graph TD;
 
 # PlantUML
 
-```plantuml
 
 ![PlantUMLDiagram](https://www.plantuml.com/plantuml/svg/SoWkIImgAStDuNBAJrBGjLDmpCbCJbMmKiX8pSd9vt98pKi1IW80)
