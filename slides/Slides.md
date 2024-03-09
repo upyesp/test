@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: custom-default
-footer: 'https://example.com'
+footer: 'https://upyesp.org'
 ---
 
 # My Presentation
