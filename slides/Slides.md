@@ -23,7 +23,15 @@ footer: 'https://www.upyesp.org'
 <!-- Can also do a multiline
 comment that will show in notes -->
 
-![Image](https://picsum.photos/800/600)
+Example of recursion, in Python.
+
+```python
+def fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n - 1) + fibonacci(n - 2)
+```
 
 ---
 
