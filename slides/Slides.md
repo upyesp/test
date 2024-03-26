@@ -37,8 +37,11 @@ def fibonacci(n):
 
 ## Slide 3
 
-> This is a quote.
+> This is a quote, and a formula below.
 
+$$
+\int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
+$$
 ---
 
 ## Slide 4
